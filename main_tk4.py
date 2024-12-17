@@ -32,6 +32,7 @@ def change_color():
 btn=Button(root,
            text='Parvietot',
            command=move_image,
+        
            font=('Arial 20')
            )
 
